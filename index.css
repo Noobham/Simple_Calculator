@@ -1,6 +1,9 @@
 *{
     cursor: pointer;
 }
+.cont1{
+    background-color:  lightslategray;
+}
 #container{
     box-shadow: 15px 16px 20px black;
     border: 2px solid rgb(0, 0, 0);
